@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2a26d4be706c4da9b1994ec621f79130/artifacts
+end_time: 1748409735472
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a26d4be706c4da9b1994ec621f79130
+run_name: fun-mouse-764
+run_uuid: 2a26d4be706c4da9b1994ec621f79130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748409734987
+status: 3
+tags: []
+user_id: Arpita mallik

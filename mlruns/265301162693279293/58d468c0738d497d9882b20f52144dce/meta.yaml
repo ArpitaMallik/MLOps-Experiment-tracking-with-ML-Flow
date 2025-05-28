@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/265301162693279293/58d468c0738d497d9882b20f52144dce/artifacts
+end_time: 1748420194560
+entry_point_name: ''
+experiment_id: '265301162693279293'
+lifecycle_stage: active
+run_id: 58d468c0738d497d9882b20f52144dce
+run_name: whimsical-sow-862
+run_uuid: 58d468c0738d497d9882b20f52144dce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748420174901
+status: 3
+tags: []
+user_id: Arpita mallik

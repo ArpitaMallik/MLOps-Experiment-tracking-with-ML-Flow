@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/265301162693279293/cece1d77b6a94165a2a54fa766fd4d7c/artifacts
+end_time: 1748413732583
+entry_point_name: ''
+experiment_id: '265301162693279293'
+lifecycle_stage: active
+run_id: cece1d77b6a94165a2a54fa766fd4d7c
+run_name: unleashed-donkey-618
+run_uuid: cece1d77b6a94165a2a54fa766fd4d7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748413731383
+status: 3
+tags: []
+user_id: Arpita mallik
