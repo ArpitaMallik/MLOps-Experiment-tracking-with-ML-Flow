@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/MLOps-Experiment-tracking-with-ML-Flow/mlruns/746964740646422470/b305a0d54eca447d88e83faa11023fd9/artifacts
+end_time: 1748443417684
+entry_point_name: ''
+experiment_id: '746964740646422470'
+lifecycle_stage: active
+run_id: b305a0d54eca447d88e83faa11023fd9
+run_name: sassy-kit-722
+run_uuid: b305a0d54eca447d88e83faa11023fd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748443417622
+status: 3
+tags: []
+user_id: Arpita mallik

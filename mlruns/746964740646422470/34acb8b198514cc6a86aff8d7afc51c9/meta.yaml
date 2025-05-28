@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/MLOps-Experiment-tracking-with-ML-Flow/mlruns/746964740646422470/34acb8b198514cc6a86aff8d7afc51c9/artifacts
+end_time: 1748443417552
+entry_point_name: ''
+experiment_id: '746964740646422470'
+lifecycle_stage: active
+run_id: 34acb8b198514cc6a86aff8d7afc51c9
+run_name: intrigued-sponge-394
+run_uuid: 34acb8b198514cc6a86aff8d7afc51c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748443417489
+status: 3
+tags: []
+user_id: Arpita mallik

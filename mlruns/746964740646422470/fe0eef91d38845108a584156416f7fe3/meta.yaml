@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/MLOps-Experiment-tracking-with-ML-Flow/mlruns/746964740646422470/fe0eef91d38845108a584156416f7fe3/artifacts
+end_time: 1748443417003
+entry_point_name: ''
+experiment_id: '746964740646422470'
+lifecycle_stage: active
+run_id: fe0eef91d38845108a584156416f7fe3
+run_name: unruly-sheep-293
+run_uuid: fe0eef91d38845108a584156416f7fe3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748443416940
+status: 3
+tags: []
+user_id: Arpita mallik

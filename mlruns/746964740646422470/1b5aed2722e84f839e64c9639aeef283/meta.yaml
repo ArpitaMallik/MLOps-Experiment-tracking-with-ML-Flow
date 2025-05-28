@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/MLOps-Experiment-tracking-with-ML-Flow/mlruns/746964740646422470/1b5aed2722e84f839e64c9639aeef283/artifacts
+end_time: 1748443417076
+entry_point_name: ''
+experiment_id: '746964740646422470'
+lifecycle_stage: active
+run_id: 1b5aed2722e84f839e64c9639aeef283
+run_name: bright-duck-47
+run_uuid: 1b5aed2722e84f839e64c9639aeef283
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748443417011
+status: 3
+tags: []
+user_id: Arpita mallik

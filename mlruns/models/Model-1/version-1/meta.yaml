@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748444441227
+current_stage: None
+description: ''
+last_updated_timestamp: 1748444441227
+name: Model-1
+run_id: 070279ef6fc24a428679d71a6c48e08c
+run_link: ''
+source: file:///F:/MLOps-Experiment-tracking-with-ML-Flow/mlruns/746964740646422470/070279ef6fc24a428679d71a6c48e08c/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///F:/MLOps-Experiment-tracking-with-ML-Flow/mlruns/746964740646422470/070279ef6fc24a428679d71a6c48e08c/artifacts/random_forest
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/MLOps-Experiment-tracking-with-ML-Flow/mlruns/746964740646422470/070279ef6fc24a428679d71a6c48e08c/artifacts
+end_time: 1748443428983
+entry_point_name: ''
+experiment_id: '746964740646422470'
+lifecycle_stage: active
+run_id: 070279ef6fc24a428679d71a6c48e08c
+run_name: salty-fish-67
+run_uuid: 070279ef6fc24a428679d71a6c48e08c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748443411425
+status: 3
+tags: []
+user_id: Arpita mallik

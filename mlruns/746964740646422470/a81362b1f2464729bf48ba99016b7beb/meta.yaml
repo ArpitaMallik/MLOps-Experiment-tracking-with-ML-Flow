@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/MLOps-Experiment-tracking-with-ML-Flow/mlruns/746964740646422470/a81362b1f2464729bf48ba99016b7beb/artifacts
+end_time: 1748443417480
+entry_point_name: ''
+experiment_id: '746964740646422470'
+lifecycle_stage: active
+run_id: a81362b1f2464729bf48ba99016b7beb
+run_name: gaudy-ant-758
+run_uuid: a81362b1f2464729bf48ba99016b7beb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748443417413
+status: 3
+tags: []
+user_id: Arpita mallik

@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/MLOps-Experiment-tracking-with-ML-Flow/mlruns/746964740646422470/d7b48a081aac4836b0b0ea701bb28a87/artifacts
+end_time: 1748443417615
+entry_point_name: ''
+experiment_id: '746964740646422470'
+lifecycle_stage: active
+run_id: d7b48a081aac4836b0b0ea701bb28a87
+run_name: welcoming-hog-650
+run_uuid: d7b48a081aac4836b0b0ea701bb28a87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748443417560
+status: 3
+tags: []
+user_id: Arpita mallik

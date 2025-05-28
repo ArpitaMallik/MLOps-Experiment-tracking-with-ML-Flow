@@ -1,0 +1,16 @@
+artifact_uri: file:///F:/MLOps-Experiment-tracking-with-ML-Flow/mlruns/746964740646422470/684f619ae0e34221a1767d0ad033b75c/artifacts
+deleted_time: 1748443443186
+end_time: 1748443204920
+entry_point_name: ''
+experiment_id: '746964740646422470'
+lifecycle_stage: deleted
+run_id: 684f619ae0e34221a1767d0ad033b75c
+run_name: languid-shrew-727
+run_uuid: 684f619ae0e34221a1767d0ad033b75c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748443199329
+status: 4
+tags: []
+user_id: Arpita mallik
